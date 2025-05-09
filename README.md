@@ -109,7 +109,6 @@ Als Aktionskarten werden alle Karten bezeichnet, die man aus dem Vorrat kaufen k
 
 ---
 
-=======
 ## Spielfeld
 Als Spielfeld kann jegliche Unterlage verwendet werden. Diese wird in der Vorbereitung und im Verlauf des Spiels mit Karten belegt, wie in der folgenden Abbildung ersichtlich.
 
