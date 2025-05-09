@@ -55,7 +55,7 @@ Als Aktionskarten werden alle Karten bezeichnet, die man aus dem Vorrat kaufen k
 
 | <div style="width:200px">Hafen</div> |  |
 | --- | --- |
-| <img src="images/cards/Hafen.jpeg" alt="hafen" width="200"/> | **Kosten**: 2x Lehm, 1x Holz<br> **Kurzbeschrieb**: +1 Karte, für jedes Meer: +1 Karte<br> **Beschreibung**: Zeige alle deine Meere und Str vor. Falls du eine oder mehrere Strassen besizt, zählen diese als insgesammt 1 Meer (Siehe Strasse). Ziehe nun 1 + Anzahl Meere Karten von deinem Nachziehstapel. Beispiele: <br> 1) Hafen ohne Strassen oder Meere -> +1 Karte <br> 2) Hafen ohne Strassen mit 2x Meere -> +3 Karten <br> 3) Hafen mit 1x Strasse und 2x Meere -> +4 Karten <br> 4) Haden mit 3x Strassen und 2x Meere -> +4 Karten <br> Falls mehrere Häfen in einer Runde ausgespielt werden können die Meere mehrmals gezählt werden.
+| <img src="images/cards/Hafen.jpeg" alt="hafen" width="200"/> | **Kosten**: 2x Lehm, 1x Holz<br> **Kurzbeschrieb**: +1 Karte, für jedes Meer: +1 Karte<br> **Beschreibung**: Zeige alle deine Meere und Str vor. Falls du eine oder mehrere Strassen besizt, zählen diese als insgesammt 1 Meer (Siehe Strasse). Ziehe nun 1 + Anzahl Meere Karten von deinem Nachziehstapel. Beispiele: <br> 1) Hafen ohne Strassen oder Meere -> +1 Karte <br> 2) Hafen ohne Strassen mit 2x Meere -> +3 Karten <br> 3) Hafen mit 1x Strasse und 2x Meere -> +4 Karten <br> 4) Hafen mit 3x Strassen und 2x Meere -> +4 Karten <br> Falls mehrere Häfen in einer Runde ausgespielt werden können die Meere mehrmals gezählt werden.
 ---
 
 | <div style="width:200px">Strasse</div> |  |
@@ -141,15 +141,22 @@ Nun da die Vorbereitungen getroffen wurden, kann das Spiel beginnen. Dazu ziehen
 Während seines Spielzugs kann der Spieler [Karten kaufen](#karten-kaufen), [Handeln](#handel), [Aktionen ausführen](#aktionen-ausführen) und [Karten ablegen](#karten-ablegen). Immer wenn eine [Handkarte](#2-handkarten) für eine dieser Optionen verwendet wird, wird diese vor dem Spieler auf den Tisch gelegt und kann nach Gebrauch nicht ein zweites Mal verwendet werden (Bis auf erwähnte Ausnahmen). Die genannten Optionen können in beliebiger Reihenfolge durchgeführt werden.
 
 ### Karten kaufen
-Durch das Ausspielen von [Resourcenkarten](#resourcenkarten), [Aktionskarten](#aktionskarten) die Resourcen geben und teilweise [Geländekarten](#geländekarten) können Karten die im [Vorrat](#4-vorrat) verfügbar sind gekauft werden. Die Karten die für den Kauf benötigt werden, werden vor dem Spieler auf den Tisch gelegt, bleiben aber in seinem Besitz (mit ausnahme beim Kauf einer Stadt). Die gekaufte Karte wird dann direkt auf den [Ablagestapel](#3-ablagestapel) gelegt.
+Durch das Ausspielen von [Resourcenkarten](#resourcenkarten), [Aktionskarten](#aktionskarten) die Resourcen geben und teilweise [Geländekarten](#geländekarten) können Karten die im [Vorrat](#4-vorrat) verfügbar sind gekauft werden. Die Karten die für den Kauf benötigt werden, werden vor dem Spieler auf den Tisch gelegt, bleiben aber in seinem Besitz (mit Ausnahme beim Kauf einer Stadt). Die gekaufte Karte wird dann direkt auf den [Ablagestapel](#3-ablagestapel) gelegt.
 
 #### Beispiel
+Der Spieler hat folgende [Handkarten](#2-handkarten): 1x Holz, 1x Lehm, 1x Siedlung, 1x Strasse und möchte eine weitere Siedlung kaufen. Er legt die Siedlung und die Holz- und Lehmkarte vor sich auf den Tisch. Die Resourcen der Siedlung verwendet er als eine Weide und ein Getreide. Er hat also 1x Holz, 1x Lehm, 1x Weide und 1x Getreide vor sich auf dem Tisch liegen. Dafür nimmt er sich eine neue Siedlung aus dem [Vorrat](#4-vorrat) und legt diese auf seinen [Ablagestapel](#3-ablagestapel). Er kann die Karten Siedlung, Holz und Lehm in diesem Zug nicht mehr verwenden und lässt sie vor sich liegen, bis der Zug beendet ist (Siehe [Ende des Spielzugs](#ende-des-spielzugs)). 
 
 ### Handel
+Falls der Spieler nicht die passenden Resourcen hat, um eine [Karte zu kaufen](#karten-kaufen), kann er zwei beliebige [Resourcenkarten](#resourcenkarten) temporär als eine Resource von einem anderen Typ verwenden ("Handeln") um damit eine Karte zu kaufen.
 
+#### Beispiel
+Der Spieler hat folgende [Handkarten](#2-handkarten): 2x Getreide, 2x Erz, 2x Weide, 1x Siedlung und möchte die Siedlung zu einer Stadt aufwerten. Er legt die Getreide, Erz und Weide Karten vor sich ab und teilt dem Mitspieler mit, dass er 2x Weide für 1x Erz eintauscht. Damit hat er Karten im Wert von 2x Getreide und 3x Erz vor sich liegen und kann die Siedlung die noch in den [Handkarten](#2-handkarten) ist, zu einer Stadt aufwerten. Dazu legt er die Siedlung zurück in den [Vorrat](#4-vorrat) und nicht sich dafür eine Stadt.
 
 ### Aktionen ausführen
+Nebst den [Aktionskarten](#aktionskarten) die hauptsächlich zum [Karten kaufen](#karten-kaufen) verwendet werden, können während einem Spielzug auch jegliche anderen [Aktionskarten](#aktionskarten) abgelegt werden und deren Beschriebene Aktion durchgeführt werden.
 
+#### Beispiel
+Der Spieler hat folgende [Handkarten](#2-handkarten): 1x Bandit, 1x Ritter (Defensiv), 1x Ritter (Offensiv), 1x Hafen. Er legt den Banditen vor sich ab und zieht eine Karte von seinem [Nachziehstapel](#1-nachziehstapel). Danach zieht er eine zufällige Handkarte des Gegners. Diese Handkarte kann er dann entweder auf seinen [Ablagestapel](#3-ablagestapel) legen oder dem Gegner zurückgeben. Der Bandit ist nun nicht mehr verfügbar und bleibt vor dem Spieler liegen, bis der Zug beendet ist (Siehe [Ende des Spielzugs](#ende-des-spielzugs)).
 
 ### Karten ablegen
 Jegliche Karten können vor dem Spieler abgelegt werden, ohne eine bestimmte Aktion durchzuführen. Damit kann Platz geschaffen werden für's [Karten nachziehen](#karten-nachziehen).
