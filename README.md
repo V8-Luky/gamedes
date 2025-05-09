@@ -15,6 +15,21 @@ Karten:
 
 ## Kartenübersicht
 
+## Spielfeld
+<img src="images/table_top.png" width="75%">
+
+### 1) Nachziehstapel
+Der verdeckte Nachziehstapel von dem neue Handkarten nachgezogen werden.
+
+### 2) Handkarten
+Die eigenen Karten, die während des eigenen Zugs verwendet werden können, um Aktionen auszuführen. Der Gegner soll keine Einsicht in diese Karten haben.
+
+### 3) Ablagestapel
+Auf diesen Stapel werden am Ende des Zugs alle verwendeten Handkarten abgelegt.
+
+### 4) Vorrat
+In der Tischmitte befindet sich der Vorrat aller Aktionskarten. Von hier können neue Aktionskarten gekauft werden.
+
 # Vorbereitung
 
 
