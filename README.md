@@ -21,6 +21,8 @@ Karten:
 ## Kartenübersicht
 
 ## Spielfeld
+Als Spielfeld kann jegliche Unterlage verwendet werden. Diese wird in der Vorbereitung und im Verlauf des Spiels mit Karten belegt, wie in der folgenden Abbildung ersichtlich.
+
 <img src="images/table_top.png" width="75%">
 
 ### 1) Nachziehstapel
@@ -36,7 +38,45 @@ Auf diesen Stapel werden am Ende des Zugs alle verwendeten Handkarten abgelegt.
 In der Tischmitte befindet sich der Vorrat aller Aktionskarten. Von hier können neue Aktionskarten gekauft werden.
 
 # Vorbereitung
+Vor dem Spielbeginn müssen die Startdecks erstellt und der Vorrat vorbereitet werden.
 
+## Startdecks erstellen
+Ein Startdeck besteht aus den folgenden Karten:
+|Karte|Anzahl|
+|---|---|
+| Getreide | 3 |
+| Holz | 3 |
+| Weide | 3 |
+| Lehm | 2 |
+| Erz | 2 |
+| Meer | 3 |
+| Wüste | 1 |
+| Strasse | 2 |
+| Siedlung | 2 |
+| **Total** | **21** |
+
+Bereitet das Startdeck pro Spieler folgt vor:
+1. Suche die Karten gemäss obiger Tabelle heraus.
+2. Mische die Karten.
+3. Lege das gemischte Startdeck als Nachziehstapel vor dir ab.
+
+## Vorrat
+Der Vorrat besteht aus den folgenden Karten:
+|Karte|Anzahl|
+|---|---|
+| Bandit | 3 |
+| Ritter (Offensiv) | 3 |
+| Ritter (Defensiv) | 3 |
+| Strasse | 18 |
+| Hafen | 3 |
+| Siedlung | 12 |
+| Stadt | 12 |
+| **Total** | **54** |
+
+Bereitet den Vorrate wie folgt vor:
+1. Sucht die Karten gemäss obiger Tabelle heraus.
+2. Bildet pro Kartentyp einen Stapel.
+3. Legt die sieben Stapel offen in die Tischmitte (Siehe [Spielfeld](#spielfeld) als Beispiel).
 
 # Spielablauf
 
