@@ -42,8 +42,9 @@ Vor dem Spielbeginn müssen die Startdecks erstellt und der Vorrat vorbereitet w
 
 ## Startdecks erstellen
 Ein Startdeck besteht aus den folgenden Karten:
-|Karte|Anzahl|
-|---|---|
+
+| Karte | Anzahl |
+| --- | --- |
 | Getreide | 3 |
 | Holz | 3 |
 | Weide | 3 |
@@ -61,9 +62,10 @@ Bereitet das Startdeck pro Spieler folgt vor:
 3. Lege das gemischte Startdeck als Nachziehstapel vor dir ab.
 
 ## Vorrat
-Der Vorrat besteht aus den folgenden Karten:
-|Karte|Anzahl|
-|---|---|
+Der [Vorrat](#4-vorrat) besteht aus den folgenden Karten:
+
+| Karte| Anzahl |
+| --- | --- |
 | Bandit | 3 |
 | Ritter (Offensiv) | 3 |
 | Ritter (Defensiv) | 3 |
@@ -79,12 +81,30 @@ Bereitet den Vorrate wie folgt vor:
 3. Legt die sieben Stapel offen in die Tischmitte (Siehe [Spielfeld](#spielfeld) als Beispiel).
 
 # Spielablauf
-
 ## Spielbeginn
+Nun da die Vorbereitungen getroffen wurden, kann das Spiel beginnen. Dazu ziehen beide Spieler zuerst 7 Karten vom [Nachziehstapel](#1-nachziehstapel). Der Spieler, der das Spiel bisher weniger häufig gespielt hat beginnt das Spiel. Haben beide das Spiel gleich häufig gespielt, beginnt der jüngste Spieler mit dem ersten [Spielzug](#spielzug).
 
-## 
+## Spielzug
+Während seines Spielzugs kann der Spieler [Karten kaufen](#karten-kaufen), [Handeln](#handel), [Aktionen ausführen](#aktionen-ausführen) und [Karten ablegen](#karten-ablegen). 
+
+### Karten kaufen
+Durch das Ablegen von []()
+
+### Handel
+
+### Aktionen ausführen
+
+
+### Karten ablegen
+
+### Ende des Spielzugs
+Der Spielzug ist beendet, sobald der Spieler sich entscheidet [Karten nachzuziehen](#karten-nachziehen). Sobald der Spieler fertig nachgezogen hat, beginnt der andere Spieler seinen [Spielzug](#spielzug).
+
+#### Karten nachziehen
+Es werden immer mindestens 3 Karten vom [Nachziehstapel](#1-nachziehstapel) gezogen. Hat der Spieler jedoch weniger als 4 Karten auf der Hand, zieht er Karten, bis er wieder 7 [Handkarten](#2-handkarten) hat.
 
 ## Spielende
+Das Spiel endet, sobald ein Spieler während seines [Spielzugs](#spielzug) **3 Städte** auf seiner Hand vorweisen kann. Dieser Spieler ist dann auch der Gewinner des Spiels.
 
 # Frequently Asked Questions
 [FAQ](FAQ.md)
