@@ -102,7 +102,7 @@ Der [Vorrat](#4-vorrat) besteht aus den folgenden Karten:
 | Ritter (Defensiv) | 3 |
 | Strasse | 14 |
 | Hafen | 3 |
-| Siedlung | 12 |
+| Siedlung | 8 |
 | Stadt | 9 |
 | **Total** | **54** |
 
