@@ -32,7 +32,7 @@ Geländekarten sind grösstenteils unnütze Karten, die das Deck verschlechtern.
 | Nur nützlich in kombination mit einem Hafen | Muss auf der Hand sein, um einen Banditen zu kaufen |
 
 ### Aktionskarten
-Als Aktionskarten werden alle Karten bezeichnet, die man aus dem Vorrat kaufen kann. Sie haben alle spezielle Effekte und kosten Ressources um sie aus dem Vorrat zu erwerben.
+Als Aktionskarten werden alle Karten bezeichnet, die man aus dem Vorrat kaufen kann. Sie haben alle spezielle Effekte und kosten Ressourcen um sie aus dem Vorrat zu erwerben.
 
 | Karte | Beschreibung |
 | --- | --- |
