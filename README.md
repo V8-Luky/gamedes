@@ -100,10 +100,10 @@ Der [Vorrat](#4-vorrat) besteht aus den folgenden Karten:
 | Bandit | 3 |
 | Ritter (Offensiv) | 3 |
 | Ritter (Defensiv) | 3 |
-| Strasse | 18 |
+| Strasse | 14 |
 | Hafen | 3 |
 | Siedlung | 12 |
-| Stadt | 12 |
+| Stadt | 9 |
 | **Total** | **54** |
 
 Bereitet den Vorrate wie folgt vor:
