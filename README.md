@@ -128,7 +128,7 @@ Der Spieler hat folgende [Handkarten](#2-handkarten): 1x Holz, 1x Lehm, 1x Siedl
 Falls der Spieler nicht die passenden Resourcen hat, um eine [Karte zu kaufen](#karten-kaufen), kann er zwei beliebige [Resourcenkarten](#resourcenkarten) temporär als eine Resource von einem anderen Typ verwenden ("Handeln") um damit eine Karte zu kaufen.
 
 #### Beispiel
-Der Spieler hat folgende [Handkarten](#2-handkarten): 2x Getreide, 2x Erz, 1x Lehm, 1x Weide, 1x Siedlung und möchte die Siedlung zu einer Stadt aufwerten. Er legt die Getreide, Erz, Lehm und Weide Karten vor sich ab und teilt dem Mitspieler mit, dass er 1x Weide & 1x Lehm für 1x Erz eintauscht. Damit hat er Karten im Wert von 2x Getreide und 3x Erz vor sich liegen und kann die Siedlung die noch in den [Handkarten](#2-handkarten) ist, zu einer Stadt aufwerten. Dazu legt er die Siedlung zurück in den [Vorrat](#4-vorrat) und nicht sich dafür eine Stadt.
+Der Spieler hat folgende [Handkarten](#2-handkarten): 2x Getreide, 2x Erz, 1x Lehm, 1x Weide, 1x Siedlung und möchte die Siedlung zu einer Stadt aufwerten. Er legt die Getreide, Erz, Lehm und Weide Karten vor sich ab und teilt dem Mitspieler mit, dass er 1x Weide & 1x Lehm für 1x Erz eintauscht. Damit hat er Karten im Wert von 2x Getreide und 3x Erz vor sich liegen und kann die Siedlung die noch in den [Handkarten](#2-handkarten) ist, zu einer Stadt aufwerten. Dazu legt er die Siedlung zurück in den [Vorrat](#4-vorrat) und nimmt sich dafür eine Stadt.
 
 ### Aktionen ausführen
 Nebst den [Aktionskarten](#aktionskarten) die hauptsächlich zum [Karten kaufen](#karten-kaufen) verwendet werden, können während einem Spielzug auch jegliche anderen [Aktionskarten](#aktionskarten) abgelegt werden und deren Beschriebene Aktion durchgeführt werden.
