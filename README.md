@@ -5,8 +5,8 @@ Autoren: Nicola Hermann, Luca Kyburz
 
 Siedler von Catan: Deck Building ist ein Deck Building Spiel, das stark vom klassischen Brettspiel Siedler von Catan inspiriert ist. Im Gegensatz zum Original geht es also nicht darum auf einem Spielbrett möglichst viele Siedlungen und Städte zu bauen, sondern sich ein Deck mit möglichst starken Karten zusammenzustellen, um so als erster die Siegesbedingungen zu erfüllen.
 
-Anzahl Spieler: 2
-Spieldauer: 45 - 75 Minuten
+- Anzahl Spieler: 2
+- Spieldauer: 45 - 75 Minuten
 
 # Ziel des Spiels
 Im Spiel stellst du dir dein eigenes Deck zusammen. Dieses Deck stellt dein Reich dar und besteht aus Ressourcen-, Gelände- & Aktionskarten. Die Spieler beginnen mit einem kleinen Startdeck, welches alle Kartentypen beinhaltet, allerdings nur wenige Aktionskarten. Im Verlauf des Spiels wächst dieses Deck immer weiter an und ermöglicht dem Spieler mehr und mächtigere Aktionen.
