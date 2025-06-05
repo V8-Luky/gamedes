@@ -37,13 +37,13 @@ Als Aktionskarten werden alle Karten bezeichnet, die man aus dem Vorrat kaufen k
 
 | Karte | Beschreibung |
 | --- | --- |
-|**Bandit** |  |
+|**Bandit** | [Erklärvideo](https://youtu.be/pRVsNIOCdG4) |
 | <img src="images/cards/Bandit.jpeg" alt="bandit" width="500"/> | **Kosten**: 2x Weide, 1x Getreide, 1x Wüste<br> **Kurzbeschrieb**: +1 Karte, Klaue eine Handkarte des Gegners und lege diese auf deinen Ablagestapel.<br> **Beschreibung**: Ziehe eine Karte von deinem Nachziehstapel. Bitte deinen Gegner seine Handkarten aufzufächern. Ziehe nun eine zufällige Handkarte deines Gegners. Schaue dir die Karte an und entscheide, ob du diese auf Deinen Ablagestapel legen möchtest oder diese deinem Gegner zurück geben willst. Falls du die Karte zurück gibst, nimmt dein Gegner diese wieder auf die Hand.<br> |
-| **Ritter (Defensiv)** |  |
+| **Ritter (Defensiv)** | [Erklärvideo](https://youtu.be/8-oPvSqpOLs) |
 | <img src="images/cards/Ritter(Defensiv).jpeg" alt="ritter_def" width="500"/> | **Kosten**: 1x Weide, 1x Getreide, 1x Holz<br> **Kurzbeschrieb**: +1 Karte, Reflektiere einen Angriff deines Gegners<br> **Beschreibung**: Wenn dein Gegner einen Angriff (Ritter (Offensiv) oder Bandit) ausspielt kannst du diese Karte vorzeigen und vor dir ablegen. Ziehe dann eine Karte von deinem Nachziehstapel und führe den reflektierten Angriff auf deinen Gegner aus. Falls dieser auch einen Ritter (Defensiv) vorzeigt, hat der Angriff auf keinen Spieler einen Einfluss. Ein Ritter (Defensiv) kann nur einen einzelnen Angriff abblocken. Falls der Ritter (Defensiv) keinen Angriff abgeblockt hat, kann dieser benutzt werden um eine Karte vom Nachziehstapel zu ziehen.<br> |
-| **Ritter (Offensiv)** |  |
+| **Ritter (Offensiv)** | [Erklärvideo](https://youtu.be/Ur_tAdRlY4Q) |
 | <img src="images/cards/Ritter(Offensiv).jpeg" alt="ritter_off" width="500"/> | **Kosten**: 1x Weide, 1x Getreide, 1x Erz<br> **Kurzbeschrieb**: +1 Karte, Dein Gegner muss 2 beliebige Karten ablegen.<br> **Beschreibung**: Ziehe eine Karte von deinem Nachziehstapel. Dein Gegner muss 2 Karten, die dein Gegner selbst aussuchen kann, auf seinen Ablagestapel ablegen. Es können mehrere Ritter (Offensiv) in einem Zug ausgespielt werden. |
-| **Hafen** |  |
+| **Hafen** | [Erklärvideo](https://youtu.be/yezjERo-f0U) |
 | <img src="images/cards/Hafen.jpeg" alt="hafen" width="500"/> | **Kosten**: 2x Lehm, 1x Holz<br> **Kurzbeschrieb**: +1 Karte, für jedes Meer: +1 Karte<br> **Beschreibung**: Zeige alle deine Meere und Strassen vor. Falls du eine oder mehrere Strassen besizt, zählen diese als insgesammt 1 Meer (Siehe Strasse). Ziehe nun 1 + Anzahl Meere Karten von deinem Nachziehstapel. Beispiele: <br> 1) Hafen ohne Strassen oder Meere -> +1 Karte <br> 2) Hafen ohne Strassen mit 2x Meere -> +3 Karten <br> 3) Hafen mit 1x Strasse und 2x Meere -> +4 Karten <br> 4) Hafen mit 3x Strassen und 2x Meere -> +4 Karten <br> Falls mehrere Häfen in einer Runde ausgespielt werden können die Meere und Strassen mehrmals gezählt werden.
 | **Strasse** |  |
 | <img src="images/cards/Strasse.jpeg" alt="strasse" width="500"/> | **Kosten**: 1x Lehm, 1x Holz<br> **Kurzbeschrieb**: Gibt einen besseren Effekt, je mehr Strassen man gleichzeitig auspielt<br> **Beschreibung**: <br> 1x Strasse -> 1 Meer <br> 2x Strassen -> 1 Meer, 1 Ressource nach Wahl<br> 3x Strassen -> 1 Meer, 3 Ressourcen nach Wahl<br> Für jede weitere Strasse -> +2 Ressourcen nach Wahl |
@@ -147,6 +147,9 @@ Der Spielzug ist beendet, sobald der Spieler sich entscheidet [Karten nachzuzieh
 Es werden immer mindestens 3 Karten vom [Nachziehstapel](#1-nachziehstapel) gezogen. Hat der Spieler jedoch weniger als 4 Karten auf der Hand, zieht er Karten, bis er wieder 7 [Handkarten](#2-handkarten) hat.
 
 Wenn der [Nachziehstapel](#1-nachziehstapel) nicht mehr genügend Karten hat, wird der [Ablagestapel](#3-ablagestapel) neu gemischt und als neuen [Nachziehstapel](#1-nachziehstapel) verwendet.
+
+### Beispielzug
+[Hier](https://youtu.be/j1qBMnHmWLs) gibt es auch noch einen Beispielzug im Videoformat!
 
 ## Spielende
 Das Spiel endet, sobald ein Spieler während seines [Spielzugs](#spielzug) **3 Städte** auf seiner Hand vorweisen kann. Dieser Spieler ist dann auch der Gewinner des Spiels.
